@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ma01_20200962</string>
-    <string name="google_api_key">AIzaSyDk61JJWK-lKbXATh8iyflkKW4O8ixKfes</string>
-    <string name='weather_api_key'>30mevj4hZ8zDzPpxiqJyOW0QVbvwg1aHGOKqMT3RwQZbPwyESApXTvJVSfTOOsmiJAd1XQ0O/l+9sUTsSTIhGg==</string>
+    <string name="google_api_key">구글 api key 입력</string>
+    <string name='weather_api_key'>기상청 api key 입력 - 디코딩 버전으로</string>
     <string name='api_url'>https://apis.data.go.kr/</string>
     <string-array name="clothes_category">
         <item>민소매</item>
